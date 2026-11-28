@@ -1,0 +1,12 @@
+node_modules
+.next
+out/
+src/
+public/
+package*.json
+next.config.*
+tailwind.config.*
+postcss.config.*
+**eslintrc.*
+jsconfig.*
+README.*
